@@ -24,7 +24,7 @@
 
   var CONFIG = {
     avgRating: '5,0',
-    reviewsUrl: 'https://share.google/WCzfdRmAq8eUjdqQx',
+    reviewsUrl: 'https://search.google.com/local/reviews?placeid=ChIJQV2YcGzryEcRSQuk9GWyqrQ',
     autoplayMs: 7000,
     reviews: [
       {
